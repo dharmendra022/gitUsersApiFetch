@@ -1,0 +1,71 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+body{
+  background-color: aqua;
+  /* border-radius: 10px; */
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.stats{
+  background: #f2f5f8 !important;
+  color: #000 !important;
+}
+.articles{
+  font-size: 10px;
+  color: #a1aab9;
+}
+
+.number1{
+  font-size: 500;
+}
+.number2{
+  font-size: 500;
+}
+.number3{
+  font-size: 500;
+}
+.rating{
+  font-size: 10px;
+  color: #a1aab9
+}
+.followers{
+  font-size: 10px;
+  color: #a1aab9;
+}
+
+h1{
+  text-align: center;
+  margin-top: 20px;
+  /* margin: 20px 0; */
+}
+.textLeft{
+  text-align: left;
+}
+.card{
+  width: 450px;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: auto;
+  /* float: left; */
+}
+
+.image{
+  min-width: 155px;
+  margin-right: 20px;
+}
+.mainDiv{
+  text-align: center;
+  /* float: left; */
+  float: right;
+}
